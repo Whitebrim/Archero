@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f42e5afdaf1ae824e9af729428b39744
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onPlayerDeath: {fileID: 11400000, guid: 29380a14d0da7914dafb8a405f2918f4, type: 2}
+  - input: {fileID: 11400000, guid: 6d1c5bd22173b2143982ce521d8b002e, type: 2}
+  - shooter: {instanceID: 0}
+  - aimer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

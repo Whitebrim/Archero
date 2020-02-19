@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d3cdb27f5a5cd4b4c9490f8a8d0c7aa6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameState: {fileID: 11400000, guid: 54bdc4c145062e34db76a2a3bb0c50c8, type: 2}
+  - countdown: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

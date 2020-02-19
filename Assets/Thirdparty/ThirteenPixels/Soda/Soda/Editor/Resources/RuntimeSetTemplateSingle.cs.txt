@@ -1,0 +1,20 @@
+﻿// Copyright © Sascha Graeff/13Pixels.
+
+namespace ThirteenPixels.Soda
+{
+    using UnityEngine;
+
+    /// <summary>
+    /// A global set of GameObjects, curated at runtime.
+    /// Stores the a reference to the #TYPE# of the GameObjects added to it.
+    /// </summary>
+    [CreateAssetMenu(menuName = "Soda/RuntimeSet/#TYPE#", order = 200)]
+    public class RuntimeSet#TYPE# : RuntimeSetBase<#TYPE#>
+    {
+        protected override bool TryCreateElement(GameObject go, out #TYPE# element)
+        {
+            element = go.GetComponent<#TYPE#>();
+            return element != null;
+        }
+    }
+}

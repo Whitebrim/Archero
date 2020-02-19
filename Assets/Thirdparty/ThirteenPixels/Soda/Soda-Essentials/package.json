@@ -1,0 +1,18 @@
+{
+  "name": "de.thirteenpixels.soda-essentials",
+  "version": "1.0.1",
+  "displayName": "Soda-Essentials",
+  "description": "Useful components to use with Soda.",
+  "unity": "2018.3",
+  "dependencies": {
+    "de.thirteenpixels.soda": "1.2.0"
+  },
+  "keywords": [
+    "ScriptableObject"
+  ],
+  "author": {
+    "name": "13Pixels",
+    "email": "assetstore@13pixels.de",
+    "url": "https://www.13pixels.de"
+  }
+}

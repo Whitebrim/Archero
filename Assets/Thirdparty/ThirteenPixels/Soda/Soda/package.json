@@ -1,0 +1,15 @@
+{
+  "name": "de.thirteenpixels.soda",
+  "version": "1.2.4",
+  "displayName": "Soda",
+  "description": "Adds ScriptableObject classes for cleaner project architecture.",
+  "unity": "2018.3",
+ "keywords": [
+    "ScriptableObject"
+  ],
+  "author": {
+    "name": "13Pixels",
+    "email": "assetstore@13pixels.de",
+    "url": "https://www.13pixels.de"
+  } 
+}
